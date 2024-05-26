@@ -1,10 +1,10 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
 <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
 <div align="center">
-	<!--<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!" />-->
+	<!--<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Alnevtra!" />-->
 	<img width="50%" src="images/code.gif" />
 	<hr />
-	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!" /> <br />
+	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Alnevtra!" /> <br />
 	<p>Designs, coding, and writes about IT Security, ethics, research, and dev. This site is where I share my experiences.</p>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
@@ -14,16 +14,16 @@
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
 	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
-	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
-	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
-	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" /></a>
-	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
+	<a href="https://github.com/LxrdAlnev"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
+	<a href="mailto:vrnsys@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
+	<a href="https://t.me/@alnevtra"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" /></a>
+	<a href="https://youtube.com/channel/alnevtra"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
 	<br />
   <h5>
-    <code><a href="https://www.facebook.com/zidan.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
-    <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+    <code><a href="https://www.facebook.com/alnevtra" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
+    <code><a href="https://www.twitter.com/alnevtra" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
     <!--<code><a href="https://wa.me/0" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>-->
-    <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.instagram.com/alnevtra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br />
   </h5>
 
