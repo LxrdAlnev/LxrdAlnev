@@ -5,7 +5,7 @@
 	<img width="50%" src="images/code.gif" />
 	<hr />
 	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Alnevtra!" /> <br />
-	<p>Designs, coding, and writes about IT Security, ethics, research, and dev. This site is where I share my experiences.</p>
+	<p>Hacking, coding, and writes about IT Security, ethics, research, and dev. This site is where I share my experiences.</p>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
 	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
