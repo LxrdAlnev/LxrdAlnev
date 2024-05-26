@@ -16,7 +16,7 @@
   <br />
 	<a href="https://github.com/LxrdAlnev"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
 	<a href="mailto:vrnsrys@proton.me/"><img src="https://img.shields.io/badge/Email-vrnsrys@proton.me-e06c75?style=social&logo=gmail" /></a>
-	<a href="https://t.me/@alnevtra"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" /></a>
+	<a href="https://t.me/@alnevtra"><img src="https://img.shields.io/badge/Telegram-@alnevtra-e06c75?style=social&logo=telegram" /></a>
 	<a href="https://youtube.com/channel/alnevtra"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
 	<br />
   <h5>
