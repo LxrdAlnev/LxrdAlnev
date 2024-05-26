@@ -14,7 +14,7 @@
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
 	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
-	<a href="https://github.com/LxrdAlnev"><img src="https://img.shields.io/github/followers/LxrdAlnev?label=Github&style=social" /></a>
+	<a href="https://github.com/alnevtra"><img src="https://img.shields.io/github/followers/alnevtra?label=Github&style=social" /></a>
 	<a href="mailto:vrnsrys@proton.me/"><img src="https://img.shields.io/badge/Email-vrnsrys@proton.me-e06c75?style=social&logo=gmail" /></a>
 	<a href="https://t.me/@alnevtra"><img src="https://img.shields.io/badge/Telegram-@alnevtra-e06c75?style=social&logo=telegram" /></a>
 	<a href="https://youtube.com/channel/alnevtra"><img src="https://img.shields.io/badge/YT-Alnevtra-dcdfe4?style=social&logo=youtube" /></a>
@@ -28,9 +28,9 @@
   </h5>
 
   <div align="center">
-<img height="135px" href="https://alnevtra.gitbook.io" src="https://github-readme-stats.vercel.app/api?username=LxrdAlnev&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="135px" href="https://alnevtra.gitbook.io" src="https://github-readme-stats.vercel.app/api?username=alnevtra&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	  <!-- wi*quL3fcV -->
-	  <img href="https://alnevtra.gitbook.io" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxrdalnev&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br />
+	  <img href="https://alnevtra.gitbook.io" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnevtra&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br />
 	  <a href="https://www.buymeacoffee.com/alnevtra"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lxrdalnev&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 	  <br /><code><a href="https://www.paypal.me/alnevtra"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </div><!--
